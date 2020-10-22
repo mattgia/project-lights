@@ -12,6 +12,11 @@ Prerequisites
 
 Python 3.8
 
+Create virtual environment
+```bash
+./create_env
+```
+
 Start virtual environment
 ```bash
 . ./activate

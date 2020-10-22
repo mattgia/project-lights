@@ -6,24 +6,23 @@ Features
 - turns lights off when the house is empty
 
 
+
+## Prerequisites
+- Python 3.8
+- `python3` on your system path
+
 ## Starting Dev Environment
-
-Prerequisites
-
-Python 3.8
-
-Create virtual environment
+1. Create virtual environment
 ```bash
 ./create_env
 ```
 
-Start virtual environment
+2. Start virtual environment
 ```bash
 . ./activate
 ```
 
-Install requirements
+3. Install requirements
 ```bash
 pip3 install -r requirements.txt
 ```
-
